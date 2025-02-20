@@ -2,3 +2,4 @@ streamlit
 wikipedia-api
 gtts
 pygame
+wikipedia
